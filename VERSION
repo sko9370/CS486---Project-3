@@ -1,0 +1,4 @@
+v1.1 
+- Fixed reinforcementTestClasses: grid object double-instantiation overwrites 
+object attributes (e.g. noise)
+- Recreated test cases.

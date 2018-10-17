@@ -1,0 +1,570 @@
+q_values_k_0_action_exit: """
+        __________       0.0000   __________
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_0_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_0_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_0_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_0_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_1_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_1_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_1_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_1_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_1_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_2_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_2_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_2_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_2_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_2_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_3_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_3_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_3_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_3_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_3_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_4_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+            0.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_4_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_4_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_4_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_4_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_5_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+            0.0000      illegal     -10.0000
+            0.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_5_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_5_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_5_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_5_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_6_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+          -10.0000      illegal     -10.0000
+            0.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_6_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_6_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_6_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_6_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_7_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+          -10.0000      illegal     -10.0000
+            0.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_7_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_7_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_7_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_7_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_8_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+          -10.0000      illegal     -10.0000
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+        __________       0.0000   __________
+"""
+
+q_values_k_8_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_8_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_8_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_8_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_9_action_exit: """
+        __________       0.0000   __________
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+          -10.0000      illegal     -10.0000
+          -10.0000      illegal       0.0000
+          -10.0000      illegal       0.0000
+        __________       0.1000   __________
+"""
+
+q_values_k_9_action_east: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_9_action_west: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_9_action_south: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_9_action_north: """
+        __________      illegal   __________
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+           illegal       0.0000      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_500_action_exit: """
+        __________       9.3539   __________
+          -96.5663      illegal     -96.9097
+          -97.7472      illegal     -94.1850
+          -89.0581      illegal     -96.9097
+          -97.2187      illegal     -87.8423
+          -92.8210      illegal     -97.2187
+        __________       0.9576   __________
+"""
+
+q_values_k_500_action_east: """
+        __________      illegal   __________
+           illegal     -16.3230      illegal
+           illegal     -26.5534      illegal
+           illegal     -11.4065      illegal
+           illegal     -42.5164      illegal
+           illegal     -25.4814      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_500_action_west: """
+        __________      illegal   __________
+           illegal     -38.8987      illegal
+           illegal     -41.5637      illegal
+           illegal     -40.5887      illegal
+           illegal     -22.3553      illegal
+           illegal     -27.8583      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_500_action_south: """
+        __________      illegal   __________
+           illegal     -13.4961      illegal
+           illegal      -0.8487      illegal
+           illegal       0.0002      illegal
+           illegal       0.0000      illegal
+           illegal      -1.2995      illegal
+        __________      illegal   __________
+"""
+
+q_values_k_500_action_north: """
+        __________      illegal   __________
+           illegal       2.9015      illegal
+           illegal       0.5354      illegal
+           illegal      -7.5207      illegal
+           illegal       0.0004      illegal
+           illegal       0.0001      illegal
+        __________      illegal   __________
+"""
+
+values: """
+        __________       9.3539   __________
+          -96.5663       2.9015     -96.9097
+          -97.7472       0.5354     -94.1850
+          -89.0581       0.0002     -96.9097
+          -97.2187       0.0004     -87.8423
+          -92.8210       0.0001     -97.2187
+        __________       0.9576   __________
+"""
+
+policy: """
+        __________   exit         __________
+        exit         north        exit      
+        exit         north        exit      
+        exit         south        exit      
+        exit         north        exit      
+        exit         north        exit      
+        __________   exit         __________
+"""
+
