@@ -55,20 +55,23 @@ class ValueIterationAgent(ValueEstimationAgent):
         counters = []
 
         for i in range(iterations):
-            kCounter = util.Counter()
-            for state in allStates:
-                actions = mdp.getPossibleActions(state)
-                actionValues = []
-                for action in actions:
-                    nextStatesProbs = mdp.getTransitionStatesAndProbs(state, action)
-                    reward = []
-                    for nextState, prob in nextStatesProbs:
-                        # need to reference counters, not self.values
-                        reward.append(prob*self.values(nextState))
-                    actionSum = actionValues.append(sum(rewards))
-                    kCounter[state] += mdp.getReward(state, action, nextState) + max(rewards)*discount
+            if i == 0:
+                counters.append(util.Counter())
+            else:
+                newCounter = util.Counter()
+                for state in allStates:
+                    actions = mdp.getPossibleActions(state)
+                    expVals = []
+                    for action in actions:
+                        nextStatesProbs = mdp.getTransitionStatesAndProbs(state, action)
+                        expVal = 0
+                        for nextState, prob in nextStatesProbs:
+                            reward = mdp.getReward(state, action, nextState)
+                            expVal += (reward + discount*counters[i-1][nextState])*prob
 
-            counters.append(kCounter.copy())
+                        expVals.append(expVal)
+                    newCounter[state] = max(expVals)
+                    counters.append(newCounter.copy())
 
     def getValue(self, state):
         """
